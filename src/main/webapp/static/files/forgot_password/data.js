@@ -1,0 +1,49 @@
+﻿$axure.loadCurrentPage({
+  "url":"forgot_password.html",
+  "generationDate":new Date(1439459255742.91),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable",
+"canshu",
+"wangluo",
+"color",
+"neicun",
+"number",
+"login",
+"name",
+"phonenumber",
+"address2",
+"back_login_name",
+"website_login_name",
+"microsite_login_name"],
+  "page":{
+    "packageId":"ae0d5b1b3c3e4d57aa952c09152048b9",
+    "type":"Axure:Page",
+    "name":"forgot_password",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"Applied Font",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+      "a":{
+}},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[]}},
+  "masters":{
+},
+  "objectPaths":{
+}});

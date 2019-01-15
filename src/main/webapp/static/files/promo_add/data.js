@@ -1,0 +1,336 @@
+﻿$axure.loadCurrentPage({
+  "url":"promo_add.html",
+  "generationDate":new Date(1439459299225.91),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable",
+"canshu",
+"wangluo",
+"color",
+"neicun",
+"number",
+"login",
+"name",
+"phonenumber",
+"address2",
+"back_login_name",
+"website_login_name",
+"microsite_login_name"],
+  "page":{
+    "packageId":"80626f94106641bf8536cd2811700bbd",
+    "type":"Axure:Page",
+    "name":"promo_add",
+    "notes":{
+      "默认":"<p><span>新增与编辑促销软文 （入口有1，市场促销管理 中的添加促销软文;2,产品管理列表中的推荐）</span></p><p><span>&nbsp;</span></p><p><span>主要功能如下：</span></p><p><span>可以选 择产品</span></p><p><span>软文内容</span></p><p><span>操作按钮：保存 （返回列表页面）</span></p>"},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"Applied Font",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+      "a":{
+}},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"5598d05903ec46b9a5a7102ddb39fa4f",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":92,
+              "y":190},
+            "size":{
+              "width":160,
+              "height":26}},
+          "adaptiveStyles":{
+            "a":{
+}},
+          "objects":[{
+              "id":"3b413915858148f79f380d0aa930ddf0",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":92,
+                  "y":190},
+                "size":{
+                  "width":160,
+                  "height":26}},
+              "adaptiveStyles":{
+                "a":{
+}}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"f3891d484e094caea369627ed847f89d",
+          "label":"",
+          "type":"button",
+          "styleType":"button",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":389,
+              "y":200},
+            "size":{
+              "width":80,
+              "height":30}},
+          "adaptiveStyles":{
+            "a":{
+}},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"Open promo_list in Current Window",
+                      "target":{
+                        "targetType":"page",
+                        "url":"promo_list.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true},
+{
+          "id":"fa3e208fee8443b49545762ebd2af1de",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":20,
+              "y":125},
+            "size":{
+              "width":73,
+              "height":23}},
+          "adaptiveStyles":{
+            "a":{
+}},
+          "objects":[{
+              "id":"10fd70fd688845b2a2aaa25c2485767b",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":20,
+                  "y":125},
+                "size":{
+                  "width":73,
+                  "height":23}},
+              "adaptiveStyles":{
+                "a":{
+}}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"9773f83ff10646219adee7cafe94d101",
+          "label":"",
+          "type":"textBox",
+          "styleType":"textBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":91,
+              "y":80},
+            "size":{
+              "width":510,
+              "height":110}},
+          "adaptiveStyles":{
+            "a":{
+}}},
+{
+          "id":"39063da5196e4f11ad985d02ef7413f6",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":10,
+              "y":8},
+            "size":{
+              "width":340,
+              "height":19}},
+          "adaptiveStyles":{
+            "a":{
+}},
+          "objects":[{
+              "id":"8b3447d46cbc4bc7aa12a354efcb0894",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":10,
+                  "y":8},
+                "size":{
+                  "width":340,
+                  "height":19}},
+              "adaptiveStyles":{
+                "a":{
+}}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"0fc56bee1a2342739eeb54a1f6c132d4",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "underline":true,
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFF000000,
+              "opacity":1},
+            "location":{
+              "x":513,
+              "y":207},
+            "size":{
+              "width":66,
+              "height":16}},
+          "adaptiveStyles":{
+            "a":{
+}},
+          "objects":[{
+              "id":"4d0efd2782bc4d2586a92dd02bdde524",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "underline":true,
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFF000000,
+                  "opacity":1},
+                "location":{
+                  "x":513,
+                  "y":207},
+                "size":{
+                  "width":66,
+                  "height":16}},
+              "adaptiveStyles":{
+                "a":{
+}}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"Open promo_list in Current Window",
+                      "target":{
+                        "targetType":"page",
+                        "url":"promo_list.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"0c3dfd752f334c7bbe8ba30903ce0a93",
+          "label":"",
+          "type":"comboBox",
+          "styleType":"comboBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":90,
+              "y":48},
+            "size":{
+              "width":200,
+              "height":22}},
+          "adaptiveStyles":{
+            "a":{
+}}},
+{
+          "id":"1f629ab23d564b8294e4bc8ec9b346dc",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":20,
+              "y":51},
+            "size":{
+              "width":70,
+              "height":16}},
+          "adaptiveStyles":{
+            "a":{
+}},
+          "objects":[{
+              "id":"5a8a3cd1ffe04028bce33906d84c9298",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":20,
+                  "y":51},
+                "size":{
+                  "width":70,
+                  "height":16}},
+              "adaptiveStyles":{
+                "a":{
+}}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "5598d05903ec46b9a5a7102ddb39fa4f":{
+      "scriptId":"u0"},
+    "3b413915858148f79f380d0aa930ddf0":{
+      "scriptId":"u1"},
+    "f3891d484e094caea369627ed847f89d":{
+      "scriptId":"u2"},
+    "fa3e208fee8443b49545762ebd2af1de":{
+      "scriptId":"u3"},
+    "10fd70fd688845b2a2aaa25c2485767b":{
+      "scriptId":"u4"},
+    "9773f83ff10646219adee7cafe94d101":{
+      "scriptId":"u5"},
+    "39063da5196e4f11ad985d02ef7413f6":{
+      "scriptId":"u6"},
+    "8b3447d46cbc4bc7aa12a354efcb0894":{
+      "scriptId":"u7"},
+    "0fc56bee1a2342739eeb54a1f6c132d4":{
+      "scriptId":"u8"},
+    "4d0efd2782bc4d2586a92dd02bdde524":{
+      "scriptId":"u9"},
+    "0c3dfd752f334c7bbe8ba30903ce0a93":{
+      "scriptId":"u10"},
+    "1f629ab23d564b8294e4bc8ec9b346dc":{
+      "scriptId":"u11"},
+    "5a8a3cd1ffe04028bce33906d84c9298":{
+      "scriptId":"u12"}}});

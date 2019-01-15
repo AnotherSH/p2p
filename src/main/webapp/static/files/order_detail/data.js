@@ -1,0 +1,49 @@
+﻿$axure.loadCurrentPage({
+  "url":"order_detail.html",
+  "generationDate":new Date(1439459270118.91),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable",
+"canshu",
+"wangluo",
+"color",
+"neicun",
+"number",
+"login",
+"name",
+"phonenumber",
+"address2",
+"back_login_name",
+"website_login_name",
+"microsite_login_name"],
+  "page":{
+    "packageId":"65759811e6d34f98a012b5d08f8837bb",
+    "type":"Axure:Page",
+    "name":"order_detail",
+    "notes":{
+      "默认":"<p><span>订单详情</span></p><p><span>&nbsp;</span></p><p><span>内容参考在前台预订时的订单确认</span></p><p><span>&nbsp;</span></p><p><span>订单信息，增加订单号,并将订单信息放到内空最上面</span></p><p><span>&nbsp;</span></p><p><span>增加合同附件下载（订单号 -电子合同.pdf）</span></p><p><span>&nbsp;</span></p>"},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"Applied Font",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+      "a":{
+}},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[]}},
+  "masters":{
+},
+  "objectPaths":{
+}});

@@ -1,0 +1,1434 @@
+﻿$axure.loadCurrentPage({
+  "url":"product_buy_records.html",
+  "generationDate":new Date(1439459297342.91),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable",
+"canshu",
+"wangluo",
+"color",
+"neicun",
+"number",
+"login",
+"name",
+"phonenumber",
+"address2",
+"back_login_name",
+"website_login_name",
+"microsite_login_name"],
+  "page":{
+    "packageId":"3b720ed959ab4642b8ec53d2dc5674c1",
+    "type":"Axure:Page",
+    "name":"product_buy_records",
+    "notes":{
+      "默认":"<p><span>产品投资记录：</span></p><p><span>&nbsp;</span></p><p><span>1，产品名称与简述</span></p><p><span>2，投资明细列表：投资人（加*）、利率、投资金额、交易时间、状态</span></p>"},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"Applied Font",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+      "a":{
+}},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"348af07fc6e9409b8c6fce6396eb6fc3",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontSize":"18px",
+            "horizontalAlignment":"left",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFF000000,
+              "opacity":1},
+            "location":{
+              "x":14,
+              "y":287},
+            "size":{
+              "width":886,
+              "height":35}},
+          "adaptiveStyles":{
+            "a":{
+}},
+          "objects":[{
+              "id":"dff796dab61b4d099650921b079bea73",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontSize":"18px",
+                "horizontalAlignment":"left",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFF000000,
+                  "opacity":1},
+                "location":{
+                  "x":14,
+                  "y":287},
+                "size":{
+                  "width":886,
+                  "height":35}},
+              "adaptiveStyles":{
+                "a":{
+}}}],
+          "images":{
+            "normal~":"images/product_buy_records/u0.png"}},
+{
+          "id":"4c7d667170844e45b4ab80bfaa2787f8",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fill":{
+              "fillType":"solid",
+              "color":0xFFF2F2F2},
+            "location":{
+              "x":53,
+              "y":321},
+            "size":{
+              "width":171,
+              "height":35}},
+          "adaptiveStyles":{
+            "a":{
+}},
+          "objects":[{
+              "id":"8a25048b3de3445ebb857f43cc5d58a6",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFF2F2F2},
+                "location":{
+                  "x":53,
+                  "y":321},
+                "size":{
+                  "width":171,
+                  "height":35}},
+              "adaptiveStyles":{
+                "a":{
+}}}],
+          "images":{
+            "normal~":"images/product_buy_records/u2.png"}},
+{
+          "id":"3d63fc3f3f2a4188b32fcc3582acecfc",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fill":{
+              "fillType":"solid",
+              "color":0xFFF2F2F2},
+            "location":{
+              "x":14,
+              "y":321},
+            "size":{
+              "width":40,
+              "height":35}},
+          "adaptiveStyles":{
+            "a":{
+}},
+          "objects":[{
+              "id":"48d7b1e82c4b4129ab944856e7a8362d",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFF2F2F2},
+                "location":{
+                  "x":14,
+                  "y":321},
+                "size":{
+                  "width":40,
+                  "height":35}},
+              "adaptiveStyles":{
+                "a":{
+}}}],
+          "images":{
+            "normal~":"images/product_buy_records/u4.png"}},
+{
+          "id":"d23e1053587d48e4aaece9aaa53b824f",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fill":{
+              "fillType":"solid",
+              "color":0xFFF2F2F2},
+            "location":{
+              "x":223,
+              "y":321},
+            "size":{
+              "width":170,
+              "height":35}},
+          "adaptiveStyles":{
+            "a":{
+}},
+          "objects":[{
+              "id":"1863142e75e041b1b46c58e8db1e61aa",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFF2F2F2},
+                "location":{
+                  "x":223,
+                  "y":321},
+                "size":{
+                  "width":170,
+                  "height":35}},
+              "adaptiveStyles":{
+                "a":{
+}}}],
+          "images":{
+            "normal~":"images/product_buy_records/u6.png"}},
+{
+          "id":"921daf0bbbd64af3a1acf5613c2c3a6a",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fill":{
+              "fillType":"solid",
+              "color":0xFFF2F2F2},
+            "location":{
+              "x":392,
+              "y":321},
+            "size":{
+              "width":170,
+              "height":35}},
+          "adaptiveStyles":{
+            "a":{
+}},
+          "objects":[{
+              "id":"680decf8282d4c9ca91ac51490262c65",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFF2F2F2},
+                "location":{
+                  "x":392,
+                  "y":321},
+                "size":{
+                  "width":170,
+                  "height":35}},
+              "adaptiveStyles":{
+                "a":{
+}}}],
+          "images":{
+            "normal~":"images/product_buy_records/u6.png"}},
+{
+          "id":"f11b9d59fb1e4eee982e7b09aab149ed",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fill":{
+              "fillType":"solid",
+              "color":0xFFF2F2F2},
+            "location":{
+              "x":561,
+              "y":321},
+            "size":{
+              "width":170,
+              "height":35}},
+          "adaptiveStyles":{
+            "a":{
+}},
+          "objects":[{
+              "id":"2d2ce081f9c94777bfae0ae94f510dba",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFF2F2F2},
+                "location":{
+                  "x":561,
+                  "y":321},
+                "size":{
+                  "width":170,
+                  "height":35}},
+              "adaptiveStyles":{
+                "a":{
+}}}],
+          "images":{
+            "normal~":"images/product_buy_records/u6.png"}},
+{
+          "id":"4d6c608b7ef748c6a1596f7ab82e8d18",
+          "label":"myproducts",
+          "type":"repeater",
+          "styleType":"repeater",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":14,
+              "y":356},
+            "size":{
+              "width":250,
+              "height":150}},
+          "adaptiveStyles":{
+            "a":{
+}},
+          "interactionMap":{
+            "onItemLoad":{
+              "description":"OnItemLoad",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"setFunction",
+                      "description":"Set text on xmmc equal to &quot;[[Item.xmmc]]&quot;, and<br> text on rzje equal to &quot;[[Item.rzze]]&quot;, and<br> text on jzlv equal to &quot;[[Item.jzlv]]&quot;, and<br> text on fdfw equal to &quot;[[Item.fdfw]]&quot;, and<br> text on qx equal to &quot;[[Item.qx]]&quot;, and<br> text on jgr equal to &quot;[[Item.jgr]]&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetWidgetRichText",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["ddbbb32deb134bc4a62f678a565219b9"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"[[Item.xmmc]]",
+                                "localVariables":{
+},
+                                "stos":[{
+                                    "sto":"item",
+                                    "name":"xmmc",
+                                    "isTarget":false}]},
+{
+                                "exprType":"booleanLiteral",
+                                "value":true}]},
+{
+                            "exprType":"fcall",
+                            "functionName":"SetWidgetRichText",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["2b8bae29eebe4ff4bd6b1765705bc508"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"[[Item.rzze]]",
+                                "localVariables":{
+},
+                                "stos":[{
+                                    "sto":"item",
+                                    "name":"rzze",
+                                    "isTarget":false}]},
+{
+                                "exprType":"booleanLiteral",
+                                "value":true}]},
+{
+                            "exprType":"fcall",
+                            "functionName":"SetWidgetRichText",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["96fd0c5f65b64067ace75552ae3467c0"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"[[Item.jzlv]]",
+                                "localVariables":{
+},
+                                "stos":[{
+                                    "sto":"item",
+                                    "name":"jzlv",
+                                    "isTarget":false}]},
+{
+                                "exprType":"booleanLiteral",
+                                "value":true}]},
+{
+                            "exprType":"fcall",
+                            "functionName":"SetWidgetRichText",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["f4c1786bdee44dfeb30e0ebb3db0382a"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"[[Item.fdfw]]",
+                                "localVariables":{
+},
+                                "stos":[{
+                                    "sto":"item",
+                                    "name":"fdfw",
+                                    "isTarget":false}]},
+{
+                                "exprType":"booleanLiteral",
+                                "value":true}]},
+{
+                            "exprType":"fcall",
+                            "functionName":"SetWidgetRichText",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["c32067b6922644f7be462ffb21b29ac7"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"[[Item.qx]]",
+                                "localVariables":{
+},
+                                "stos":[{
+                                    "sto":"item",
+                                    "name":"qx",
+                                    "isTarget":false}]},
+{
+                                "exprType":"booleanLiteral",
+                                "value":true}]},
+{
+                            "exprType":"fcall",
+                            "functionName":"SetWidgetRichText",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["6cd813a27c344f859354858f490706fb"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"[[Item.jgr]]",
+                                "localVariables":{
+},
+                                "stos":[{
+                                    "sto":"item",
+                                    "name":"jgr",
+                                    "isTarget":false}]},
+{
+                                "exprType":"booleanLiteral",
+                                "value":true}]}]}}]}]}},
+          "repeaterPropMap":{
+            "isolateRadio":true,
+            "isolateSelection":true,
+            "default":{
+              "loadLocalDefault":true,
+              "wrap":-1,
+              "vertical":true,
+              "horizontalSpacing":0,
+              "verticalSpacing":0,
+              "hasAltColor":false,
+              "itemsPerPage":-1,
+              "currPage":1,
+              "backColor":{
+                "r":255,
+                "g":255,
+                "b":255,
+                "a":0},
+              "altColor":{
+                "r":255,
+                "g":255,
+                "b":255,
+                "a":0}},
+            "":{
+              "width":886,
+              "height":34,
+              "loadLocalDefault":true,
+              "wrap":1,
+              "vertical":false,
+              "horizontalSpacing":0,
+              "verticalSpacing":0,
+              "hasAltColor":false,
+              "itemsPerPage":-1,
+              "currPage":1,
+              "backColor":{
+                "r":255,
+                "g":255,
+                "b":255,
+                "a":0},
+              "altColor":{
+                "r":255,
+                "g":255,
+                "b":255,
+                "a":0}},
+            "a":{
+              "width":886,
+              "height":34}},
+          "objects":[{
+              "id":"cc8571ca2f5d4b559885bf2951184276",
+              "label":"xmmc",
+              "type":"buttonShape",
+              "styleType":"buttonShape",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":0,
+                  "y":-1},
+                "size":{
+                  "width":40,
+                  "height":35}},
+              "adaptiveStyles":{
+                "a":{
+}},
+              "objects":[{
+                  "id":"ddbbb32deb134bc4a62f678a565219b9",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "location":{
+                      "x":0,
+                      "y":-1},
+                    "size":{
+                      "width":40,
+                      "height":35}},
+                  "adaptiveStyles":{
+                    "a":{
+}}}],
+              "images":{
+                "normal~":"images/product_buy_records/xmmc_u13.png"}},
+{
+              "id":"ce745661d948432ebf28151163774c04",
+              "label":"rzje",
+              "type":"buttonShape",
+              "styleType":"buttonShape",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":39,
+                  "y":-1},
+                "size":{
+                  "width":171,
+                  "height":35}},
+              "adaptiveStyles":{
+                "a":{
+}},
+              "objects":[{
+                  "id":"2b8bae29eebe4ff4bd6b1765705bc508",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "location":{
+                      "x":39,
+                      "y":-1},
+                    "size":{
+                      "width":171,
+                      "height":35}},
+                  "adaptiveStyles":{
+                    "a":{
+}}}],
+              "images":{
+                "normal~":"images/product_buy_records/rzje_u15.png"}},
+{
+              "id":"c09716800b3749c184aa278074c37eec",
+              "label":"jzlv",
+              "type":"buttonShape",
+              "styleType":"buttonShape",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":209,
+                  "y":-1},
+                "size":{
+                  "width":170,
+                  "height":35}},
+              "adaptiveStyles":{
+                "a":{
+}},
+              "objects":[{
+                  "id":"96fd0c5f65b64067ace75552ae3467c0",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "location":{
+                      "x":209,
+                      "y":-1},
+                    "size":{
+                      "width":170,
+                      "height":35}},
+                  "adaptiveStyles":{
+                    "a":{
+}}}],
+              "images":{
+                "normal~":"images/product_buy_records/jzlv_u17.png"}},
+{
+              "id":"5c829a3e7bb44c908170d34a14983d4a",
+              "label":"fdfw",
+              "type":"buttonShape",
+              "styleType":"buttonShape",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":378,
+                  "y":-1},
+                "size":{
+                  "width":170,
+                  "height":35}},
+              "adaptiveStyles":{
+                "a":{
+}},
+              "objects":[{
+                  "id":"f4c1786bdee44dfeb30e0ebb3db0382a",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "location":{
+                      "x":378,
+                      "y":-1},
+                    "size":{
+                      "width":170,
+                      "height":35}},
+                  "adaptiveStyles":{
+                    "a":{
+}}}],
+              "images":{
+                "normal~":"images/product_buy_records/jzlv_u17.png"}},
+{
+              "id":"63972a9a0a4d49249a1c39d5f23b72a2",
+              "label":"qx",
+              "type":"buttonShape",
+              "styleType":"buttonShape",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":547,
+                  "y":-1},
+                "size":{
+                  "width":170,
+                  "height":35}},
+              "adaptiveStyles":{
+                "a":{
+}},
+              "objects":[{
+                  "id":"c32067b6922644f7be462ffb21b29ac7",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "location":{
+                      "x":547,
+                      "y":-1},
+                    "size":{
+                      "width":170,
+                      "height":35}},
+                  "adaptiveStyles":{
+                    "a":{
+}}}],
+              "images":{
+                "normal~":"images/product_buy_records/jzlv_u17.png"}},
+{
+              "id":"e0439a5b24394d35b26f422b927f8310",
+              "label":"jgr",
+              "type":"buttonShape",
+              "styleType":"buttonShape",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":716,
+                  "y":-1},
+                "size":{
+                  "width":170,
+                  "height":35}},
+              "adaptiveStyles":{
+                "a":{
+}},
+              "objects":[{
+                  "id":"6cd813a27c344f859354858f490706fb",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "location":{
+                      "x":716,
+                      "y":-1},
+                    "size":{
+                      "width":170,
+                      "height":35}},
+                  "adaptiveStyles":{
+                    "a":{
+}}}],
+              "images":{
+                "normal~":"images/product_buy_records/jzlv_u17.png"}},
+{
+              "id":"56a44df2c5144694bb02e5f045669ab2",
+              "label":"",
+              "type":"buttonShape",
+              "styleType":"buttonShape",
+              "visible":true,
+              "style":{
+                "underline":true,
+                "location":{
+                  "x":774,
+                  "y":7},
+                "size":{
+                  "width":60,
+                  "height":20},
+                "linePattern":"none"},
+              "adaptiveStyles":{
+                "a":{
+}},
+              "objects":[{
+                  "id":"915ddd547ef7448cb8147c6889bbd911",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "underline":true,
+                    "location":{
+                      "x":774,
+                      "y":7},
+                    "size":{
+                      "width":60,
+                      "height":20},
+                    "linePattern":"none"},
+                  "adaptiveStyles":{
+                    "a":{
+}}}],
+              "interactionMap":{
+                "onClick":{
+                  "description":"OnClick",
+                  "cases":[{
+                      "description":"用例 1",
+                      "isNewIfGroup":false,
+                      "actions":[{
+                          "action":"fadeWidget",
+                          "description":"Show/Hide Widget",
+                          "objectsToFades":[]}]}]}},
+              "tabbable":true,
+              "images":{
+                "normal~":"images/product_buy_records/u25.png"}}],
+          "data":[{
+              "bh":{
+                "type":"text",
+                "text":"1"},
+              "xmmc":{
+                "type":"text",
+                "text":"1"},
+              "rzze":{
+                "type":"text",
+                "text":"*赵大伟"},
+              "jzlv":{
+                "type":"text",
+                "text":"6.5%   "},
+              "fdfw":{
+                "type":"text",
+                "text":"15,000元"},
+              "qx":{
+                "type":"text",
+                "text":"2015-03-20"},
+              "jgr":{
+                "type":"text",
+                "text":"sdfs "},
+              "zdfkr":{
+                "type":"text",
+                "text":"2016-05-04"},
+              "cjtj":{
+                "type":"text",
+                "text":"付款+低利率"},
+              "fbrq":{
+                "type":"text",
+                "text":"2015-07-04"}},
+{
+              "bh":{
+                "type":"text",
+                "text":"2"},
+              "xmmc":{
+                "type":"text",
+                "text":"2"},
+              "rzze":{
+                "type":"text",
+                "text":"*冯志刚"},
+              "jzlv":{
+                "type":"text",
+                "text":"6.0%   "},
+              "fdfw":{
+                "type":"text",
+                "text":"25,000元"},
+              "qx":{
+                "type":"text",
+                "text":"2015-03-19"},
+              "zdfkr":{
+                "type":"text",
+                "text":"2016-07-01"},
+              "cjtj":{
+                "type":"text",
+                "text":"付款+低利率"},
+              "fbrq":{
+                "type":"text",
+                "text":"2015-05-03"}},
+{
+              "bh":{
+                "type":"text",
+                "text":"3"},
+              "xmmc":{
+                "type":"text",
+                "text":"3"},
+              "rzze":{
+                "type":"text",
+                "text":"*朱新民"},
+              "jzlv":{
+                "type":"text",
+                "text":"5.0%   "},
+              "fdfw":{
+                "type":"text",
+                "text":"50,000元"},
+              "qx":{
+                "type":"text",
+                "text":"2015-03-21"},
+              "zdfkr":{
+                "type":"text",
+                "text":"2016-04-15"},
+              "cjtj":{
+                "type":"text",
+                "text":"付款+低利率"},
+              "fbrq":{
+                "type":"text",
+                "text":"2015-06-22"}},
+{
+              "bh":{
+                "type":"text",
+                "text":"4"},
+              "xmmc":{
+                "type":"text",
+                "text":"4"},
+              "rzze":{
+                "type":"text",
+                "text":"*尤雪"},
+              "jzlv":{
+                "type":"text",
+                "text":"5.5%"},
+              "fdfw":{
+                "type":"text",
+                "text":"60,000元"},
+              "qx":{
+                "type":"text",
+                "text":"2015-03-20"},
+              "zdfkr":{
+                "type":"text",
+                "text":"2016-05-20"},
+              "cjtj":{
+                "type":"text",
+                "text":"付款+低利率"},
+              "fbrq":{
+                "type":"text",
+                "text":"2015-03-04"}}],
+          "dataProps":["bh",
+"xmmc",
+"rzze",
+"jzlv",
+"fdfw",
+"qx",
+"jgr",
+"zdfkr",
+"cjtj",
+"fbrq"]},
+{
+          "id":"b508447520af41b8854004d9de1a161e",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fill":{
+              "fillType":"solid",
+              "color":0xFFF2F2F2},
+            "location":{
+              "x":730,
+              "y":321},
+            "size":{
+              "width":170,
+              "height":35}},
+          "adaptiveStyles":{
+            "a":{
+}},
+          "objects":[{
+              "id":"d9df68c7b71842fdb7691b9cbe446776",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFF2F2F2},
+                "location":{
+                  "x":730,
+                  "y":321},
+                "size":{
+                  "width":170,
+                  "height":35}},
+              "adaptiveStyles":{
+                "a":{
+}}}],
+          "images":{
+            "normal~":"images/product_buy_records/u6.png"}},
+{
+          "id":"93dfeb7c3acd48c485b20e224db25f7e",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Negreta', 'Arial'",
+            "fontWeight":"700",
+            "location":{
+              "x":14,
+              "y":533},
+            "size":{
+              "width":581,
+              "height":31}},
+          "adaptiveStyles":{
+            "a":{
+}},
+          "objects":[{
+              "id":"fd696c872bf14c6b826b3bcf2966e0d0",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Negreta', 'Arial'",
+                "fontWeight":"700",
+                "location":{
+                  "x":14,
+                  "y":533},
+                "size":{
+                  "width":581,
+                  "height":31}},
+              "adaptiveStyles":{
+                "a":{
+}}}],
+          "images":{
+            "normal~":"images/finances/u180.jpg"}},
+{
+          "id":"40f186e950c14549b0441e52a55e64fa",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fill":{
+              "fillType":"solid",
+              "color":0xFFF2F2F2},
+            "location":{
+              "x":14,
+              "y":19},
+            "size":{
+              "width":329,
+              "height":35}},
+          "adaptiveStyles":{
+            "a":{
+}},
+          "objects":[{
+              "id":"fa174e1f15ec4c5a9a0117e428bb48ad",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFF2F2F2},
+                "location":{
+                  "x":14,
+                  "y":19},
+                "size":{
+                  "width":329,
+                  "height":35}},
+              "adaptiveStyles":{
+                "a":{
+}}}],
+          "images":{
+            "normal~":"images/product_buy_records/u31.png"}},
+{
+          "id":"53f77cd7c47840eb8053768de3ff1620",
+          "label":"myproducts",
+          "type":"repeater",
+          "styleType":"repeater",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":14,
+              "y":54},
+            "size":{
+              "width":250,
+              "height":150}},
+          "adaptiveStyles":{
+            "a":{
+}},
+          "interactionMap":{
+            "onItemLoad":{
+              "description":"OnItemLoad",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"setFunction",
+                      "description":"Set text on Unidentified equal to &quot;[[Item.xmmc]]&quot;, and<br> text on rzje equal to &quot;[[Item.rzze]]&quot;, and<br> text on Unidentified equal to &quot;[[Item.jzlv]]&quot;, and<br> text on Unidentified equal to &quot;[[Item.fdfw]]&quot;, and<br> text on Unidentified equal to &quot;[[Item.qx]]&quot;, and<br> text on Unidentified equal to &quot;[[Item.jgr]]&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetWidgetRichText",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["f72480b952294748a94ce63df8dec5ba"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"[[Item.rzze]]",
+                                "localVariables":{
+},
+                                "stos":[{
+                                    "sto":"item",
+                                    "name":"rzze",
+                                    "isTarget":false}]},
+{
+                                "exprType":"booleanLiteral",
+                                "value":true}]}]}}]}]}},
+          "repeaterPropMap":{
+            "isolateRadio":true,
+            "isolateSelection":true,
+            "default":{
+              "loadLocalDefault":true,
+              "wrap":-1,
+              "vertical":true,
+              "horizontalSpacing":0,
+              "verticalSpacing":0,
+              "hasAltColor":false,
+              "itemsPerPage":-1,
+              "currPage":1,
+              "backColor":{
+                "r":255,
+                "g":255,
+                "b":255,
+                "a":0},
+              "altColor":{
+                "r":255,
+                "g":255,
+                "b":255,
+                "a":0}},
+            "":{
+              "width":329,
+              "height":34,
+              "loadLocalDefault":true,
+              "wrap":1,
+              "vertical":false,
+              "horizontalSpacing":0,
+              "verticalSpacing":0,
+              "hasAltColor":false,
+              "itemsPerPage":-1,
+              "currPage":1,
+              "backColor":{
+                "r":255,
+                "g":255,
+                "b":255,
+                "a":0},
+              "altColor":{
+                "r":255,
+                "g":255,
+                "b":255,
+                "a":0}},
+            "a":{
+              "width":329,
+              "height":34}},
+          "objects":[{
+              "id":"78e0d598d31a4efd99ae440548242a0d",
+              "label":"rzje",
+              "type":"buttonShape",
+              "styleType":"buttonShape",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":0,
+                  "y":-1},
+                "size":{
+                  "width":329,
+                  "height":35}},
+              "adaptiveStyles":{
+                "a":{
+}},
+              "objects":[{
+                  "id":"f72480b952294748a94ce63df8dec5ba",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "location":{
+                      "x":0,
+                      "y":-1},
+                    "size":{
+                      "width":329,
+                      "height":35}},
+                  "adaptiveStyles":{
+                    "a":{
+}}}],
+              "images":{
+                "normal~":"images/product_buy_records/rzje_u34.png"}}],
+          "data":[{
+              "bh":{
+                "type":"text",
+                "text":"1"},
+              "xmmc":{
+                "type":"text",
+                "text":"1"},
+              "rzze":{
+                "type":"text",
+                "text":"中石化加油站3月期修装款    "},
+              "jzlv":{
+                "type":"text",
+                "text":"8.85%"},
+              "fdfw":{
+                "type":"text",
+                "text":"10万"},
+              "qx":{
+                "type":"text",
+                "text":"2015-03-20"},
+              "jgr":{
+                "type":"text",
+                "text":"sdfs "},
+              "zdfkr":{
+                "type":"text",
+                "text":"2016-05-04"},
+              "cjtj":{
+                "type":"text",
+                "text":"付款+低利率"},
+              "fbrq":{
+                "type":"text",
+                "text":"2015-07-04"}},
+{
+              "bh":{
+                "type":"text",
+                "text":"2"},
+              "xmmc":{
+                "type":"text",
+                "text":"2"},
+              "rzze":{
+                "type":"text",
+                "text":"中国移动夏季啤酒采购款    "},
+              "jzlv":{
+                "type":"text",
+                "text":"7.50%"},
+              "fdfw":{
+                "type":"text",
+                "text":"30万"},
+              "qx":{
+                "type":"text",
+                "text":"2015-03-13"},
+              "zdfkr":{
+                "type":"text",
+                "text":"2016-07-01"},
+              "cjtj":{
+                "type":"text",
+                "text":"付款+低利率"},
+              "fbrq":{
+                "type":"text",
+                "text":"2015-05-03"}},
+{
+              "bh":{
+                "type":"text",
+                "text":"3"},
+              "xmmc":{
+                "type":"text",
+                "text":"3"},
+              "rzze":{
+                "type":"text",
+                "text":"中国移动自动客户机款    "},
+              "jzlv":{
+                "type":"text",
+                "text":"8.20%"},
+              "fdfw":{
+                "type":"text",
+                "text":"50万"},
+              "qx":{
+                "type":"text",
+                "text":"2015-04-17"},
+              "zdfkr":{
+                "type":"text",
+                "text":"2016-04-15"},
+              "cjtj":{
+                "type":"text",
+                "text":"付款+低利率"},
+              "fbrq":{
+                "type":"text",
+                "text":"2015-06-22"}},
+{
+              "bh":{
+                "type":"text",
+                "text":"4"},
+              "xmmc":{
+                "type":"text",
+                "text":"4"},
+              "rzze":{
+                "type":"text",
+                "text":"吉利汽车4s装潢款    "},
+              "jzlv":{
+                "type":"text",
+                "text":"6.50%"},
+              "fdfw":{
+                "type":"text",
+                "text":"30万"},
+              "qx":{
+                "type":"text",
+                "text":"2015-04-06"},
+              "zdfkr":{
+                "type":"text",
+                "text":"2016-05-20"},
+              "cjtj":{
+                "type":"text",
+                "text":"付款+低利率"},
+              "fbrq":{
+                "type":"text",
+                "text":"2015-03-04"}},
+{
+              "bh":{
+                "type":"text",
+                "text":"5"},
+              "xmmc":{
+                "type":"text",
+                "text":"5"},
+              "rzze":{
+                "type":"text",
+                "text":"中国电信crm系统建设款    "}},
+{
+              "bh":{
+                "type":"text",
+                "text":"6"},
+              "xmmc":{
+                "type":"text",
+                "text":"6"},
+              "rzze":{
+                "type":"text",
+                "text":"中石化加油站3月期修装款    "}}],
+          "dataProps":["bh",
+"xmmc",
+"rzze",
+"jzlv",
+"fdfw",
+"qx",
+"jgr",
+"zdfkr",
+"cjtj",
+"fbrq"]},
+{
+          "id":"4f62476f8cc644829710e175b3c4135b",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "horizontalAlignment":"left",
+            "location":{
+              "x":370,
+              "y":20},
+            "size":{
+              "width":530,
+              "height":238}},
+          "adaptiveStyles":{
+            "a":{
+}},
+          "objects":[{
+              "id":"3fa670bd7d99427a889cd6d09bf43d68",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "horizontalAlignment":"left",
+                "location":{
+                  "x":370,
+                  "y":20},
+                "size":{
+                  "width":530,
+                  "height":238}},
+              "adaptiveStyles":{
+                "a":{
+}}}],
+          "images":{
+            "normal~":"images/product_buy_records/u36.png"}},
+{
+          "id":"a549665ec8f74b9e98649172b5c7b41a",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "horizontalAlignment":"left",
+            "location":{
+              "x":380,
+              "y":22},
+            "size":{
+              "width":90,
+              "height":26},
+            "linePattern":"none"},
+          "adaptiveStyles":{
+            "a":{
+}},
+          "objects":[{
+              "id":"e520aaa41870499dad599eff69777c3e",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "horizontalAlignment":"left",
+                "location":{
+                  "x":380,
+                  "y":22},
+                "size":{
+                  "width":90,
+                  "height":26},
+                "linePattern":"none"},
+              "adaptiveStyles":{
+                "a":{
+}}}],
+          "images":{
+            "normal~":"images/product_buy_records/u38.png"}}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "348af07fc6e9409b8c6fce6396eb6fc3":{
+      "scriptId":"u0"},
+    "dff796dab61b4d099650921b079bea73":{
+      "scriptId":"u1"},
+    "4c7d667170844e45b4ab80bfaa2787f8":{
+      "scriptId":"u2"},
+    "8a25048b3de3445ebb857f43cc5d58a6":{
+      "scriptId":"u3"},
+    "3d63fc3f3f2a4188b32fcc3582acecfc":{
+      "scriptId":"u4"},
+    "48d7b1e82c4b4129ab944856e7a8362d":{
+      "scriptId":"u5"},
+    "d23e1053587d48e4aaece9aaa53b824f":{
+      "scriptId":"u6"},
+    "1863142e75e041b1b46c58e8db1e61aa":{
+      "scriptId":"u7"},
+    "921daf0bbbd64af3a1acf5613c2c3a6a":{
+      "scriptId":"u8"},
+    "680decf8282d4c9ca91ac51490262c65":{
+      "scriptId":"u9"},
+    "f11b9d59fb1e4eee982e7b09aab149ed":{
+      "scriptId":"u10"},
+    "2d2ce081f9c94777bfae0ae94f510dba":{
+      "scriptId":"u11"},
+    "4d6c608b7ef748c6a1596f7ab82e8d18":{
+      "scriptId":"u12"},
+    "cc8571ca2f5d4b559885bf2951184276":{
+      "scriptId":"u13"},
+    "ddbbb32deb134bc4a62f678a565219b9":{
+      "scriptId":"u14"},
+    "ce745661d948432ebf28151163774c04":{
+      "scriptId":"u15"},
+    "2b8bae29eebe4ff4bd6b1765705bc508":{
+      "scriptId":"u16"},
+    "c09716800b3749c184aa278074c37eec":{
+      "scriptId":"u17"},
+    "96fd0c5f65b64067ace75552ae3467c0":{
+      "scriptId":"u18"},
+    "5c829a3e7bb44c908170d34a14983d4a":{
+      "scriptId":"u19"},
+    "f4c1786bdee44dfeb30e0ebb3db0382a":{
+      "scriptId":"u20"},
+    "63972a9a0a4d49249a1c39d5f23b72a2":{
+      "scriptId":"u21"},
+    "c32067b6922644f7be462ffb21b29ac7":{
+      "scriptId":"u22"},
+    "e0439a5b24394d35b26f422b927f8310":{
+      "scriptId":"u23"},
+    "6cd813a27c344f859354858f490706fb":{
+      "scriptId":"u24"},
+    "56a44df2c5144694bb02e5f045669ab2":{
+      "scriptId":"u25"},
+    "915ddd547ef7448cb8147c6889bbd911":{
+      "scriptId":"u26"},
+    "b508447520af41b8854004d9de1a161e":{
+      "scriptId":"u27"},
+    "d9df68c7b71842fdb7691b9cbe446776":{
+      "scriptId":"u28"},
+    "93dfeb7c3acd48c485b20e224db25f7e":{
+      "scriptId":"u29"},
+    "fd696c872bf14c6b826b3bcf2966e0d0":{
+      "scriptId":"u30"},
+    "40f186e950c14549b0441e52a55e64fa":{
+      "scriptId":"u31"},
+    "fa174e1f15ec4c5a9a0117e428bb48ad":{
+      "scriptId":"u32"},
+    "53f77cd7c47840eb8053768de3ff1620":{
+      "scriptId":"u33"},
+    "78e0d598d31a4efd99ae440548242a0d":{
+      "scriptId":"u34"},
+    "f72480b952294748a94ce63df8dec5ba":{
+      "scriptId":"u35"},
+    "4f62476f8cc644829710e175b3c4135b":{
+      "scriptId":"u36"},
+    "3fa670bd7d99427a889cd6d09bf43d68":{
+      "scriptId":"u37"},
+    "a549665ec8f74b9e98649172b5c7b41a":{
+      "scriptId":"u38"},
+    "e520aaa41870499dad599eff69777c3e":{
+      "scriptId":"u39"}}});
